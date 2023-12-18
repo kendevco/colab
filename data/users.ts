@@ -9,42 +9,41 @@ import { User } from "../types";
  * Group info is in /data/groups.ts
  */
 export const users: Omit<User, "color">[] = [
-  /*
+
   {
-    id: "[YOUR EMAIL ADDRESS]",
-    name: "[YOUR DISPLAY NAME]",
-    avatar: "https://liveblocks.io/avatars/avatar-0.png",
+    id: "kenneth.courtney@gmail.com",
+    name: "Kenneth Courtney",
+    avatar: "https://yt3.ggpht.com/yti/AGOGRCqvOSPbqfydu-3qLMH9J9i6_qmA_WUwPyquj5EUf3E=s88-c-k-c0x00ffffff-no-rj",
     groupIds: ["product", "engineering", "design"],
   },
-  */
   {
-    id: "charlie.layne@example.com",
-    name: "Charlie Layne",
+    id: "tylersuzanne84@gmail.com",
+    name: "Tyler Suzanne",
     avatar: "https://liveblocks.io/avatars/avatar-2.png",
     groupIds: ["product", "engineering", "design"],
   },
   {
-    id: "mislav.abha@example.com",
-    name: "Mislav Abha",
+    id: "billthecat1022@gmail.com",
+    name: "Ronald Courtney",
     avatar: "https://liveblocks.io/avatars/avatar-3.png",
-    groupIds: ["engineering"],
+    groupIds: ["product", "engineering", "design"],
   },
   {
-    id: "tatum.paolo@example.com",
-    name: "Tatum Paolo",
+    id: "NolanSSmith@msn.com",
+    name: "Nolan Smith",
     avatar: "https://liveblocks.io/avatars/avatar-4.png",
-    groupIds: ["engineering", "design"],
+    groupIds: ["product", "engineering", "design"],
   },
   {
-    id: "anjali.wanda@example.com",
-    name: "Anjali Wanda",
+    id: "luvratnakumar@gmail.com",
+    name: "Uma Venkata Lekkala",
     avatar: "https://liveblocks.io/avatars/avatar-5.png",
-    groupIds: ["product"],
+    groupIds: ["product", "engineering", "design"],
   },
   {
-    id: "emil.joyce@example.com",
-    name: "Emil Joyce",
+    id: "junaidmohiyuddin886@gmail.com",
+    name: "Junaid Mohiyuddin",
     avatar: "https://liveblocks.io/avatars/avatar-6.png",
-    groupIds: ["product", "design"],
+    groupIds: ["product", "engineering", "design"],
   },
 ];
